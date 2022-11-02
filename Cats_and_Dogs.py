@@ -29,7 +29,7 @@ pygame.init()
 height = 640
 width = 480
 screen = pygame.display.set_mode((width, height))    # create window and set the width and height
-pygame.display.set_caption("BlockzRain")             # set window name
+pygame.display.set_caption("Cats_and_Dogs")             # set window name
 
 # main background images
 background = pygame.image.load("Resources/Background.png")
@@ -54,7 +54,7 @@ while True:
 
     screen.blit(background, (0, 0))
     screen.blit(sky, (0, 0))
-    screen.blit(ground, (0, 540))
+    screen.blit(ground, (0, 500))
     clouds.draw(screen)
     clouds.update()
 
