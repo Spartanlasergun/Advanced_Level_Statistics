@@ -13,3 +13,10 @@ not seem to be any way to plot bivariate data using matplotlib, and the module
 can only process the raw data set - this essentially means that in answering the
 questions where the sorted data is provided, I am left with the task of recreating
 the raw data set for use with matplotlib.
+
+Since the text specifically asks for a histogram plot that utilizes frequency
+density, some of the answers provided may not be accurate with respect to the
+question itself. However, since the dataplot for the raw frequencies only
+vary from the frequency density plot where the intervals are non-uniform, many
+of the answers given will still appear accurate data visualizations.
+
