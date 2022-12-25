@@ -21,4 +21,4 @@ or
 
 ` n = 2 * pi * r`
 
-Where n is the population size. This way, the growth of the circle will be uniform with respect to its center.
+Where n is the population size. This way, the growth of the pie-chart will be uniform with respect to its center.
