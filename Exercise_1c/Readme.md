@@ -5,3 +5,5 @@ poulation grows, the pie chart itself should become larger to in diameter to rep
 
 ` r_1 / r_2 = (sqrt(F_1)) / (sqrt(F_2))`
 
+r_1 is the radius of the initial pie chart
+F_1 and F_2 are the population sizes
