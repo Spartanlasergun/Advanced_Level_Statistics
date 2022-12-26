@@ -21,4 +21,6 @@ or
 
 ` n = 2 * pi * r`
 
-Where 'n' is the population size. This way, the growth of the pie-chart will be uniform with respect to its center.
+Where 'n' is the population size. This way, the growth of the pie-chart will be uniform with respect to its center. (Note: The equation given by the text is derived
+from the equation that gives the area of the circle.)
+
