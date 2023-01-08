@@ -1,6 +1,5 @@
 # Notes on this exercise
 
-The Calculations in this exercise are all relatively simple calculations of the mean. It does however revisit the topic of Histograms as was previously done in another
-exercise. I feel that it is important to restate that though the textbook plots histograms using calculations of frequency density - the frequency density calculation
-has been purposely neglected here, as the python matplotlib module does not natively plot histograms using that method.
-
+The weighted mean is not a very widely used calculation. Essentially, it involoves modifying the frequency of datapoints from a given data set to place more emphasis -
+or weight - on a particular value. As a calculation and measurement, it's relevance is purely mathematical and it has little or nothing to do with collecting data in the
+real world.
