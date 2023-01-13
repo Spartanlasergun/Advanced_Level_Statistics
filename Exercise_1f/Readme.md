@@ -10,7 +10,7 @@ standard error of the mean.
 
 ### Derivation of the Standard Deviation: Basic Principles and Thoughts
 
-This part of the standard devaiton equation - $\Sigma (x - \mu)$ - is essentially calculating the distance from the mean for each data point.
+This part of the standard devaiton equation $\Sigma (x - \mu)$ , is essentially calculating the distance from the mean for each data point.
 
 * The mean itself is the center of the data. So, the sum of the distances for each data point from the center is equal to zero. To avoid this zero error, the distances
 are squared and we get the formula: 
