@@ -2,7 +2,7 @@
 
 This Exercise deals with calculations of the Standard Deviation and Variance.
 
-The formula given for Standard Deviation is $\sigma = \sqrt \Sigma (x - \mu)^2 / n $
+The formula given for Standard Deviation is $\sigma$ = $\sqrt{(\Sigma (x - \mu)^2) \over n} $
 
 The standard deviation represents the average distance of each data point from the mean. Hence, it is sometimes referred to as the standard error of the mean.
 
@@ -15,12 +15,11 @@ To avoid this zero error, the distances are squared and we get the formula:
 $\Sigma (x - \mu)^2$
 
 * Of Course, we want the average of this distance for the entire dataset, so we divide by the size of the samle 'n'. 
-The result is the equation:
-$\Sigma (x - \mu)^2 / n$
+The result is the equation: $\Sigma (x - \mu)^2 \over n$
 
 * Finally, we need to remember that we squared the initial value for the deviation. For the standard error of the mean
 to be representative of the original sample, we need to find it's square root. The result is the equation for
-standard deviation as we know it: $\sigma = \sqrt \Sigma (x - \mu)^2 / n $
+standard deviation as we know it: $\sqrt {\Sigma (x - \mu)^2 \over n} $
 
 
 
