@@ -38,4 +38,23 @@ changes in variance are much more pronounced than an absolute statistic such as 
 multiple variances across multiple sets of data, a much higher level of relation needs to exist between the data points themselves. When it comes to making predictions
 this quality of the variance as being much more fickle a statistic, makes it invaluable when compared to absolute values such as the 'Mean Absolute Deviation'.
 
+### Unbiased and Biased samples
+
+The textbook in this instance does not mention the difference between biased and unbiased samples. The formula given for the standard deviation and variance uses the
+population mean explicitly. However, the principle behind biased and unbiased sample is important in cosideration of some of the larger foundational and conceptual
+ideas in statistics.
+
+The difference is as follows:
+* For an entire dataset or given population, the standard deviation is $\sigma$ = $\sqrt{\Sigma((x - \mu)^2) \over n}$
+
+* For a biased data sample the standard deviation is $s_n$ = $\sqrt{\Sigma((x - \bar x)^2) \over n}$
+
+* For a unbiased data sample the standard deviation is s<sub>n-1</sub> = $\sqrt{\Sigma((x - \bar x)^2) \over n-1}$
+
+The difference as can be noted above, is that an unbiased calculation divides by a sample size of n-1, whereas a biased sample divides by n. 
+
+This is a phenomenon that is analagous to the difference between Mean Absolute Deviation and the Root Mean Square Error. Generally speaking, the sample mean
+$\bar x$, is likely to be greater or less than the true population mean $\mu$. Tests with large random samples show that while the unbiased calculation is obvioulsy
+less precise than the biased calculation (which uses the true sample mean), the error it produces for any given sample of the data is actually less than the biased
+calculation. So the convention is that we use the unbiased calculation for samples of a population rather than the biased calculation.
 
