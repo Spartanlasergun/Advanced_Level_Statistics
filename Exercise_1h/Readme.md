@@ -1,6 +1,6 @@
 # Notes on this exercise
 
-This exercise deal with the manipulation of datasets to change the mean or standard deviation to a specified value
+This exercise deals with the manipulation of datasets to change the mean $\bar x$, or standard deviation $\sigma$, to a specified value.
 
 To understand how this is done, we must examine the effect of basic arithmetic operation on datasets.
 
@@ -9,7 +9,10 @@ Consider the dataset {1, 2, 3, 4, 5, 6, 7}
 * The mean $\bar x$, of this dataset is = 4
 * It's standard deviation $\sigma$, is = 2
 
-What happens if add a constant value ' $c$ ', to each number in the dataset? How does the mean and standard deviation change?
+What happens if add a constant value $c$, to each number in the dataset? How does the mean and standard deviation change? What if instead of adding a number, I multiplied each number in the dataset by  some constant $k$ ? How would multiplying affect the mean and standard deviation, as opposed to addition? 
+
+These concepts are discussed further below.
+## Addition Operations
 
 Let's examine this using our dataset {1, 2, 3, 4, 5, 6, 7}
 
@@ -24,7 +27,8 @@ On closer observation, we can generalize this understanding as follows:
 * If each number in the dataset is increased by a constant $c$, :
   * The mean is increased by $c$, that is to say, $\bar x + c$ 
   * and, the standard deviation remains unaltered
-  
+ 
+ ## Multiplication Operations
  So we know what happens to the mean and standard deviation when we add a constant to each value, but what happens when we multiply each value by the constant $k$ ?
  
  Lets examine this using our dataset {1, 2, 3, 4, 5, 6, 7}
