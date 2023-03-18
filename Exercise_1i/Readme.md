@@ -1,58 +1,19 @@
 # Notes on this exercise
 
-This exercise deals with the manipulation of datasets to change the mean $\bar x$, or standard deviation $\sigma$, to a specified value.
+This exercise deals primarily with solving for the original mean and standard deviation of coded datasets
 
-To understand how this is done, we must examine the effect of basic arithmetic operation on datasets.
+In general:
 
-Consider the dataset {1, 2, 3, 4, 5, 6, 7}
+If a set of numbers $x_1, x_2, x_3,... x_n$ is transformed to $y_1, y_2, y_3,... y_n$  by a means of coding where
 
-* The mean $\bar x$, of this dataset is = 4
-* It's standard deviation $\sigma$, is = 2
+$y = \frac{x - a}{b}$
 
-What happens if add a constant value $c$, to each number in the dataset? How does the mean and standard deviation change? What if instead of adding a number, I multiplied each number in the dataset by  some constant $k$ ? How would multiplying affect the mean and standard deviation, as opposed to addition? 
+then $x = a + by$
 
-These concepts are discussed further below.
-## Addition Operations
+hence $\bar x = a + \bar y b$
 
-Let's examine this using our dataset {1, 2, 3, 4, 5, 6, 7}
+and $s_x = bs_y$
 
-Adding '5' to each number in the dataset, (i.e. $f(x) = x_n + 5$ ) gives the following:
-
-{6, 7, 8, 9, 10, 11, 12}
-
-The new mean $\bar x$, is = 7, and the standard deviation is unchanged (i.e. $\sigma = 2$)
-
-On closer observation, we can generalize this understanding as follows: 
-
-* If each number in the dataset is increased by a constant $c$, :
-  * The mean is increased by $c$, that is to say, $\bar x + c$ 
-  * and, the standard deviation remains unaltered
  
- ## Multiplication Operations
- So we know what happens to the mean and standard deviation when we add a constant to each value, but what happens when we multiply each value by the constant $k$ ?
- 
- Lets examine this using our dataset {1, 2, 3, 4, 5, 6, 7}
- 
- Multiplying each number in the dataset by the number 2, (i.e. $f(x) = x * 2$ ) gives the following:
- 
- {2, 4, 6, 4, 10, 12, 14}
- 
- The new mean $\bar x$, is = 8, and the new standard deviation $\sigma$, is = 4
-
-As with addition operations, we can generalize the understanding for multiplication as follows:
-
-* If each number in the dataset is muliplied by a constant $k$, :
-  * The mean of the dataset is multiplied by $k$, i.e. $\bar x * k$
-  * and, the standard deviation is also multiplied by $k$, i.e. $\sigma * k$
-
-
-
-
-
-
-
-
-
-
 
 
