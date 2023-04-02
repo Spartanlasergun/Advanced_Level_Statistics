@@ -15,7 +15,8 @@ hence $\bar x = a + \bar y b$
 and $s_x = bs_y$
 
 
-### Disclaimer: Some of the questions in this exercise appear to be intentionally misleading. The first question asks for solutions using a coding formula even though the raw datsets are given. The last three questions ask for solutions to the mean and standard deviations 'using a method of coding'. I'm not sure what is meant by this and the answers as are given in the text, reflect a typical mean and standard deviation calculation for a raw dataset. I am unlcear as to the intentions of the authors with respect to these issue.
+### Disclaimer: 
+Some of the questions in this exercise appear to be intentionally misleading. The first question asks for solutions using a coding formula even though the raw datsets are given. The last three questions ask for solutions to the mean and standard deviations 'using a method of coding'. I'm not sure what is meant by this, as the answers given in the text reflect a typical mean and standard deviation calculation for a raw dataset. The intentions of the authors are unclear with respect to these issues.
 
  
 
