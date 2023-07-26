@@ -12,4 +12,4 @@ The most complex operations involve plotting graphs and doing linear interpolati
 
 Other than this there isn't much that is complex. Whether the upper limit, lower limit or midpoints assoicated with the interval width should be taken when creating graphs of cumulative frequency is important and it is not very well discussed/explained in this part of the chapter. 
 
-Note: For several of the questions, I made a different choice of boundaries than the soultions given to the exercise and consequently arrived at different answers.
+Note: The author has made a unique and rather arbitrary distinction in the text between grouped and ungrouped data that to my knowledge is not generally accounted for in statistics. As I understand it, 'Interval Data' is its own class of data and is not further differentiated into any subgroup. This exercise does not reflect the need for this understanding, but it should be noted. Cumulative Frequency is the mathematical concept around which 'grouped' and 'ungrouped' data seem to contrive their relevance.
