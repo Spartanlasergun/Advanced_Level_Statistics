@@ -25,3 +25,5 @@ $$ b = \frac{s_{xy}}{s_{xx}}, \ \ or \ \ b = \frac{S_{xy}}{S_{xx}} $$
 And, the y intercept is given by:
 
 $$ a = \bar y - b\bar x $$
+
+(Note: parts of question 7 are ommitted as their may be missing information in the text)
