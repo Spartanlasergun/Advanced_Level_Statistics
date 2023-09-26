@@ -1,6 +1,6 @@
 # Notes on this exercise
 
-This exercise deals with the manipulation of datasets to change the mean $\bar x$, or standard deviation $\sigma$, to a specified value.
+This exercise deals with the manipulation of datasets to change the mean $\bar x$, or standard deviation $\sigma$, to a specified value. Though there is little practical value in this exercise itself, it is a great illustration of how we can use functions to model data in different ways.
 
 To understand how this is done, we must examine the effect of basic arithmetic operation on datasets.
 
