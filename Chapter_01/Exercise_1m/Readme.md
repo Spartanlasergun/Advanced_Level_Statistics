@@ -1,6 +1,5 @@
 # Notes on this exercise
 
-
 This exercise involves the plotting of box and whisker diagrams for grouped and ungrouped datasets. As in previous exercises, grouped data requires the plotting of cumulative frequency curves using linear interpolation to estimate median and quartile values.
 
 Aside from this, special interpretation of skewness using the box and whisker plots are required as well.
