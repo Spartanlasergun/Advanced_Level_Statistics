@@ -1,0 +1,2 @@
+# Notes on this exercise
+
