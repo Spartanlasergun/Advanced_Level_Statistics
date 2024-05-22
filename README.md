@@ -1,4 +1,4 @@
-# Advanced_Level_Statistics
+# Advanced Level Statistics
 
 Programmatic solutions to Exercises in the book: "A concise course in Advanced Level Statistics with worked examples - by J. Crawshaw and J. Chambers". Answers to questions for each exercise are given in a unique directory that is labelled according to the exercise numbers that are given in the text.
 
